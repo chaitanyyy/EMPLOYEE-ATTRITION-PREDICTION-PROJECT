@@ -1,0 +1,17 @@
+At-Risk Employees...
+----------------------------------------------------------------------
+
+High-Risk Employees: 170
+
+Top 10:
+      Age              Department                JobRole  Attrition_Risk_Score
+463    26  Research & Development  Laboratory Technician                  94.0
+102    20  Research & Development  Laboratory Technician                  92.5
+457    18                   Sales   Sales Representative                  90.9
+1365   29                   Sales   Sales Representative                  90.9
+777    21  Research & Development  Laboratory Technician                  90.5
+127    19                   Sales   Sales Representative                  90.5
+1012   31                   Sales   Sales Representative                  90.3
+656    32  Research & Development  Laboratory Technician                  89.5
+1379   27         Human Resources        Human Resources                  88.8
+731    20  Research & Development     Research Scientist                  88.8
